@@ -15,10 +15,10 @@ This is the source code for the RegionMapper used to create the region file, as 
 This is the original MEIC-HR emission for the CP8C regions including two domains. The emission files were processed from MEIC-HR 2017 released by the MEIC Team of Tsinghua University.  
 基于清华大学MEIC-HR 2017排放数据进行网格化后的原始排放清单。  
 9. Optimized emission for the CP8C region.7z  
-This is the optimized emission files for the CP8C regions.
+This is the optimized emission files for the CP8C regions.  
 通过论文迭代优化方法处理后的排放清单。  
 11. Obs_template.xlsx  
-This is an example for how to create observation files in xlsx format.
+This is an example for how to create observation files in xlsx format.  
 实测数据模板。
 
 * Citation  
