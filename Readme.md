@@ -27,4 +27,4 @@ This is a sample script to run the optimization.
 https://doi.org/10.1016/j.scitotenv.2024.176824
 
 * Contact  
-For any questions, please contact my supervisor: fmyang#scu.edu.cn, or me: lcw#cdaes.cn.
+We hope our work helps, for any questions or suggestions, please contact my supervisor: fmyang#scu.edu.cn, or me: lcw#cdaes.cn.
