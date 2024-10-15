@@ -24,7 +24,7 @@ This is an example for how to create observation files in xlsx format.
 This is a sample script to run the optimization.   
 运行迭代优化的参考脚本。  
 * Citation  
-https://doi.org/10.1016/j.scitotenv.2024.176824
+Lu, C., Zhou, Z., Liu, H., Chen, X., Tan, Q., Wang, N., Yang, X., Huang, L., & Yang, F. (2024). An iteratively optimized downscaling method for city-scale air quality forecast emission inventory establishment. Science of The Total Environment, 176824. https://doi.org/10.1016/j.scitotenv.2024.176824  
 
 * Contact  
 We hope our work helps, for any questions or suggestions, please contact my supervisor: fmyang#scu.edu.cn, or me: lcw#cdaes.cn.
